@@ -36,8 +36,7 @@ This project demonstrates the use of a `ContentProvider` in Android to securely 
 
    ```xml
    <permission
-       android:name="com.example.appa.READ_PLAYERID"
-       android:protectionLevel="signature" />
+       android:name="com.example.appa.READ_PLAYERID"/>
    ```
 
 ### 2. Setting Up App B (Consumer)
