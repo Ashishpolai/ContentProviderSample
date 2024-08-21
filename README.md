@@ -69,7 +69,7 @@ This project demonstrates the use of a `ContentProvider` in Android to securely 
 
    ```xml
    <queries>
-       <package android:name="com.example.appa" />
+       <package android:name="com.utility.appa" />
    </queries>
    ```
 
