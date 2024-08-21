@@ -1,3 +1,0 @@
-com.utility.appb.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
