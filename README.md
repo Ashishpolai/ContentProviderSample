@@ -1,6 +1,3 @@
-Here’s the complete README file formatted for GitHub:
-
-```markdown
 # ContentProviderSample
 
 This project demonstrates the use of a `ContentProvider` in Android to securely share data between two applications. The project includes two apps: **App A** (which defines the `ContentProvider`) and **App B** (which accesses the data provided by App A).
@@ -33,7 +30,6 @@ This project demonstrates the use of a `ContentProvider` in Android to securely 
        android:authorities="com.example.appa.provider"
        android:exported="true"
        android:readPermission="com.example.appa.READ_PLAYERID" />
-   ```
 
 2. **Custom Permission:**
    - A custom permission `com.example.appa.READ_PLAYERID` is defined to restrict access to the `ContentProvider`.
