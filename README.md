@@ -107,7 +107,7 @@ You can use ADB commands to test the `ContentProvider` functionality. However, n
 
 ## Known Issues and Troubleshooting
 
-- **SecurityException:** If App B cannot access the `ContentProvider`, ensure that both apps are signed with the same key and that permissions are correctly declared.
+- **SecurityException:** If App B cannot access the `ContentProvider`, ensure that App B has declared the custom permission and the queries tag with the App A Package name.
 - **Provider Not Found:** If App B fails to find the `ContentProvider`, ensure that App A is installed and has been run at least once on the device.
 
 ## Conclusion
