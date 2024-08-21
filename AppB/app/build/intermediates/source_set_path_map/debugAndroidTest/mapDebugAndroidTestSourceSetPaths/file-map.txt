@@ -1,0 +1,5 @@
+com.utility.appb.test.app-core-1.6.1-0 /Users/ashishpolai/.gradle/caches/transforms-4/e55ed4e6aa3373ab84b8d900a408c554/transformed/core-1.6.1/res
+com.utility.appb.test.app-androidTest-1 /Users/ashishpolai/AppB/app/build/generated/res/resValues/androidTest/debug
+com.utility.appb.test.app-mergeDebugAndroidTestResources-2 /Users/ashishpolai/AppB/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.utility.appb.test.app-mergeDebugAndroidTestResources-3 /Users/ashishpolai/AppB/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.utility.appb.test.app-debugAndroidTest-4 /Users/ashishpolai/AppB/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
